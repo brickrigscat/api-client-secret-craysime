@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/pgmodre/app/craysim/from/craysim1/unlock/craysim2/beta",
+      "destination": "/api/issue"
+    }
+  ]
+}
